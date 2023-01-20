@@ -72,7 +72,6 @@ def crear_nif(nif, sufijo, pais="ES"):
         "y":34,
         "z":35,
     }
-#B12345678ES    #12345678BES
     
     try:
     
